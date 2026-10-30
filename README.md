@@ -1,4 +1,4 @@
-# Financial Performance
+# Financial Performance Intelligence
 
 **¿Por qué una empresa vende más, pero gana menos?**
 
@@ -19,7 +19,7 @@ Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión ana
 ## Entrega final
 
 - [Informe ejecutivo](outputs/INFORME_FINAL.md).
-- [Dashboard local de tres vistas](outputs/dashboard.html): abrir con doble clic, funciona sin conexión.
+- [Dashboard local de tres vistas](outputs/dashboard.html): en GitHub usa **Download raw file**, guarda exactamente `dashboard.html` y ábrelo con Chrome o Edge. GitHub no ejecuta HTML directamente; no confundas este archivo con la base SQLite, el ZIP o la presentación.
 - [Presentación editable de nueve diapositivas](outputs/presentacion_ejecutiva.pptx).
 - [Método y límites](outputs/ANEXO_METODOLOGICO.md).
 - [Guion de exposición](outputs/GUIA_PRESENTACION.md).
