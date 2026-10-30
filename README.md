@@ -14,7 +14,7 @@ Investigación de rentabilidad con SQL y Python: del estado de resultados al mar
 
 SQL organiza la evidencia; Python automatiza la generación, validación y descomposición financiera; el dashboard permite explorar resultados; la presentación comunica hallazgos y acciones. El caso utiliza datos sintéticos documentados.
 
-Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión analítica 1 terminada y verificada. Repositorio privado publicado en GitHub para revisión; la implementación empresarial queda pendiente.
+Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión analítica 1 terminada y verificada. Repositorio público publicado en GitHub; la implementación empresarial queda pendiente.
 
 ## Entrega final
 
