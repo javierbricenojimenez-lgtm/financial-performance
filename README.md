@@ -19,6 +19,7 @@ Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión ana
 ## Entrega final
 
 - [Informe ejecutivo](outputs/INFORME_FINAL.md).
+- [Resumen ejecutivo y conclusión](outputs/RESUMEN_EJECUTIVO.md).
 - [Dashboard local de tres vistas](outputs/dashboard.html): en GitHub usa **Download raw file**, guarda exactamente `dashboard.html` y ábrelo con Chrome o Edge. GitHub no ejecuta HTML directamente; no confundas este archivo con la base SQLite, el ZIP o la presentación.
 - [Presentación editable de nueve diapositivas](outputs/presentacion_ejecutiva.pptx).
 - [Método y límites](outputs/ANEXO_METODOLOGICO.md).
