@@ -14,7 +14,7 @@ Investigación de rentabilidad con SQL y Python: del estado de resultados al mar
 
 SQL organiza la evidencia; Python automatiza la generación, validación y descomposición financiera; el dashboard permite explorar resultados; la presentación comunica hallazgos y acciones. El caso utiliza datos sintéticos documentados.
 
-Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión analítica 1 terminada y verificada. Publicación en GitHub e implementación empresarial pendientes.
+Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión analítica 1 terminada y verificada. Repositorio privado publicado en GitHub para revisión; la implementación empresarial queda pendiente.
 
 ## Entrega final
 
@@ -72,7 +72,7 @@ Empresa comercial ficticia de productos de oficina en Chile; enero a septiembre 
 - `outputs/financial_performance.sqlite`: base poblada, con vistas de consulta.
 - `outputs/LEEME_DATOS.md`: resumen, reglas y limitaciones del conjunto.
 - `outputs/manifiesto_validacion.json`: conteos, semilla, huella y controles.
-- `outputs/datos_financieros_sinteticos.zip`: paquete de datos y documentación.
+- `outputs/proyecto_financial_performance_v1.zip`: paquete auditado de datos y documentación.
 
 ## Secuencia de trabajo
 
@@ -91,3 +91,4 @@ Empresa comercial ficticia de productos de oficina en Chile; enero a septiembre 
 - El presupuesto es mensual, versión inicial fija, sin detalle por cliente.
 - No se incluyen compras ni proveedores: no se atribuirán cambios de costo a proveedores sin incorporar evidencia adicional.
 - SQLite será la base local. Las salidas para Power BI se prepararán después de validar los datos.
+
