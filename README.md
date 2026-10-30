@@ -16,6 +16,14 @@ SQL organiza la evidencia; Python automatiza la generación, validación y desco
 
 Proyecto de aprendizaje y portafolio con datos sintéticos. Estado: versión analítica 1 terminada y verificada. Repositorio público publicado en GitHub; la implementación empresarial queda pendiente.
 
+## Resumen del análisis y conclusión
+
+Entre agosto y septiembre, los ingresos subieron de $100M a $108M (+8%), pero el costo de ventas aumentó de $60M a $70M y los gastos operacionales de $20M a $21M. Por eso el margen bruto bajó de $40M a $38M y la utilidad operacional cayó de $20M a $17M (-$3M).
+
+La mayor pérdida de margen estuvo en Organización (-$4.490.921). Dentro de esa categoría, **Cajas archivo pack** cayó -$1.174.888: las unidades netas bajaron de 487 a 293, con 152 packs menos vendidos en bruto y 42 devoluciones adicionales. Los clientes que redujeron este producto siguieron comprando otros productos; la base demuestra el impacto, pero no el motivo comercial definitivo.
+
+**Conclusión:** la empresa vendió más, pero con una estructura menos rentable. El análisis identifica qué cambió, cuánto impactó y dónde actuar; las causas comerciales finales deben validarse con inventario, pedidos no atendidos y motivos de devolución. [Ver el resumen ejecutivo completo](outputs/RESUMEN_EJECUTIVO.md).
+
 ## Entrega final
 
 - [Informe ejecutivo](outputs/INFORME_FINAL.md).
