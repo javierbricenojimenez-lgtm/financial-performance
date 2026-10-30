@@ -1,4 +1,4 @@
-# Financial Performance Intelligence
+# Financial Performance
 
 **¿Por qué una empresa vende más, pero gana menos?**
 
