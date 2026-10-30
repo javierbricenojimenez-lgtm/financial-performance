@@ -1,0 +1,12 @@
+{
+  "estado": "OK",
+  "controles": [
+    "60 agregados producto-mes",
+    "Identidad por cada producto con aritmética exacta",
+    "Puente margen -2000000 exacto",
+    "Puente utilidad -3000000 exacto",
+    "Cuentas de gasto +1000000",
+    "Presupuesto agregado antes de comparación"
+  ],
+  "sha256_bd": "f8481a5daecd5a5f2886a9b13f197d2bc1c7180eb478e10077a6967edce32885"
+}

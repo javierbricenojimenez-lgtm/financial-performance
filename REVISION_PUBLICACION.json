@@ -1,0 +1,103 @@
+{
+  "estado": "APTO_PARA_REVISION_FINAL",
+  "sha256_paquete": "76695077f1b9d62c104038daecc45ef9153900c7fae2f7a29b3bf57d99de8f36",
+  "archivos": 48,
+  "controles": [
+    {
+      "control": "Integridad ZIP",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Sin rutas absolutas ni traversal en ZIP",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Sin carpetas internas o archivos de credenciales",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Llaves privadas en archivos de texto",
+      "resultado": "OK",
+      "detalle": "Archivos que requieren revisión: 0"
+    },
+    {
+      "control": "Tokens con formato conocido en archivos de texto",
+      "resultado": "OK",
+      "detalle": "Archivos que requieren revisión: 0"
+    },
+    {
+      "control": "Rutas personales de Windows en archivos de texto",
+      "resultado": "OK",
+      "detalle": "Archivos que requieren revisión: 0"
+    },
+    {
+      "control": "Correos electrónicos en archivos de texto",
+      "resultado": "OK",
+      "detalle": "Archivos que requieren revisión: 0"
+    },
+    {
+      "control": "Credenciales literales asignadas en archivos de texto",
+      "resultado": "OK",
+      "detalle": "Archivos que requieren revisión: 0"
+    },
+    {
+      "control": "Integridad SQLite",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Todos los nombres de clientes siguen el patrón ficticio",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Sin triggers ni tablas virtuales en la base",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Sin instrucciones de conexión externa en esquema",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Fuente idéntica al generador sintético reproducible",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Presentación sin macros, ActiveX u objetos OLE",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Presentación sin relaciones externas",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Presentación sin rutas personales ni correos detectados",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "Autoría de metadatos sin nombre personal",
+      "resultado": "OK",
+      "detalle": "Campos de autor revisados: 2"
+    },
+    {
+      "control": "Dashboard sin scripts externos ni llamadas de red explícitas",
+      "resultado": "OK",
+      "detalle": ""
+    },
+    {
+      "control": "No se distribuyen Excel ni libros con macros",
+      "resultado": "OK",
+      "detalle": ""
+    }
+  ],
+  "limite": "Revisión estática del paquete local, no certificación de seguridad ni análisis antimalware. No incluye identidad Git/GitHub, permisos del repositorio, configuración de publicación ni historial de futuros commits."
+}

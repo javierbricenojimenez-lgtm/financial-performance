@@ -1,0 +1,11 @@
+work/
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+outputs/*.zip
+outputs/.*.validated
+outputs/presentacion_portafolio*.pptx

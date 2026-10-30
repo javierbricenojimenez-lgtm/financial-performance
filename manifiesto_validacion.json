@@ -1,0 +1,113 @@
+{
+  "tipo": "DATOS SINTÉTICOS — NO REPRESENTAN UNA EMPRESA REAL",
+  "semilla": 20251029,
+  "periodo": "2025-01-01 a 2025-09-30",
+  "moneda": "CLP sin IVA",
+  "sha256_fuente": "1faf5c2403cd33ad3882d7dbbd46f7c7678ecf440f7013d9a34e91608f232162",
+  "filas": {
+    "productos": 30,
+    "clientes": 100,
+    "calendario": 273,
+    "ventas": 9870,
+    "gastos": 486,
+    "presupuesto_comercial": 540,
+    "presupuesto_gastos": 162
+  },
+  "calibracion_mensual": [
+    {
+      "mes": "2025-01",
+      "factor_ingresos": 0.6137197812444622,
+      "factor_costos": 0.5321643597388724
+    },
+    {
+      "mes": "2025-02",
+      "factor_ingresos": 0.5855843632013971,
+      "factor_costos": 0.5098336628149891
+    },
+    {
+      "mes": "2025-03",
+      "factor_ingresos": 0.6078975496882786,
+      "factor_costos": 0.5303783918352313
+    },
+    {
+      "mes": "2025-04",
+      "factor_ingresos": 0.63488317182971,
+      "factor_costos": 0.5686586720256087
+    },
+    {
+      "mes": "2025-05",
+      "factor_ingresos": 0.5720658449343539,
+      "factor_costos": 0.5017746296977371
+    },
+    {
+      "mes": "2025-06",
+      "factor_ingresos": 0.5969044099965615,
+      "factor_costos": 0.5401365480857521
+    },
+    {
+      "mes": "2025-07",
+      "factor_ingresos": 0.663104413359325,
+      "factor_costos": 0.6080750650149848
+    },
+    {
+      "mes": "2025-08",
+      "factor_ingresos": 0.6070268093822567,
+      "factor_costos": 0.552475028612813
+    },
+    {
+      "mes": "2025-09",
+      "factor_ingresos": 0.47092763216146555,
+      "factor_costos": 0.41262587412067514
+    }
+  ],
+  "controles": [
+    {
+      "control": "Integridad SQLite",
+      "resultado": "OK"
+    },
+    {
+      "control": "Claves externas",
+      "resultado": "OK"
+    },
+    {
+      "control": "Calendario completo y coherente",
+      "resultado": "OK"
+    },
+    {
+      "control": "Devoluciones con referencia, identidad y valor correctos",
+      "resultado": "OK"
+    },
+    {
+      "control": "Sin devoluciones acumuladas excesivas",
+      "resultado": "OK"
+    },
+    {
+      "control": "Documentos consistentes",
+      "resultado": "OK"
+    },
+    {
+      "control": "Catálogos y cobertura",
+      "resultado": "OK"
+    },
+    {
+      "control": "Conciliación exacta de nueve meses",
+      "resultado": "OK"
+    },
+    {
+      "control": "Recálculo independiente Python frente a SQL",
+      "resultado": "OK"
+    },
+    {
+      "control": "Todos los productos y clientes con actividad",
+      "resultado": "OK"
+    },
+    {
+      "control": "Sin costos superiores al ingreso en líneas de venta",
+      "resultado": "OK"
+    },
+    {
+      "control": "Reproducibilidad con semilla fija",
+      "resultado": "OK"
+    }
+  ]
+}
